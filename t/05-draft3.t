@@ -22,7 +22,6 @@ my %todos = map {
     t/test-suite/tests/draft3/additionalProperties.json
     t/test-suite/tests/draft3/dependencies.json
     t/test-suite/tests/draft3/disallow.json
-    t/test-suite/tests/draft3/divisibleBy.json
     t/test-suite/tests/draft3/extends.json
     t/test-suite/tests/draft3/minLength.json
     t/test-suite/tests/draft3/optional/bignum.json
